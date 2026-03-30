@@ -1,0 +1,13 @@
+molecules*
+predictions*
+logs*
+losses*
+rewards
+trajectories*
+__pycache__
+models*
+*maps*
+*map
+.ipynb_checkpoints
+*txt
+*pth
