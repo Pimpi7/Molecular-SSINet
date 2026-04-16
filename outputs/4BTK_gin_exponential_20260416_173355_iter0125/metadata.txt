@@ -1,0 +1,10 @@
+Timestamp       : 20260416_173355
+Label           : iter0125
+Platform        : KAGGLE
+PREDICTOR       : gin
+PROTEIN         : 4BTK
+REWARD_FUNCTION : exponential
+NUM_ITERATIONS  : 175
+USE_LOGP        : True
+USE_QED         : True
+USE_TPSA        : True
