@@ -1,6 +1,6 @@
-Timestamp       : 20260428_175735
+Timestamp       : 20260428_175912
 Run name        : test-alternate-rewards
-Label           : final
+Label           : post_analysis
 Platform        : COLAB
 PREDICTOR       : gin
 PROTEIN         : 4BTK
