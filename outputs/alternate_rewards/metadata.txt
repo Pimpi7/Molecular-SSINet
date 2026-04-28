@@ -1,0 +1,14 @@
+Timestamp       : 20260428_175912
+Run name        : test-alternate-rewards
+Label           : post_analysis
+Platform        : COLAB
+PREDICTOR       : gin
+PROTEIN         : 4BTK
+REWARD_FUNCTION : exponential
+NUM_ITERATIONS  : 10
+N_POLICY        : 5
+SWITCH_MODE     : True
+SWITCH_FREQUENCY: 5
+USE_LOGP        : True
+USE_QED         : True
+USE_TPSA        : True
