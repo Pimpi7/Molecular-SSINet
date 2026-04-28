@@ -1,3 +1,5 @@
 .env
 keys.env
 .claude/
+*thumbnail*.jpg
+~$Presentation.pptx
