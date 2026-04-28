@@ -1,6 +1,6 @@
-Timestamp       : 20260428_193130
+Timestamp       : 20260428_200357
 Run name        : full-run-alternate-rewards
-Label           : iter0025
+Label           : iter0050
 Platform        : KAGGLE
 PREDICTOR       : gin
 PROTEIN         : 4BTK
