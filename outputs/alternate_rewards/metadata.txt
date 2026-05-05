@@ -1,7 +1,7 @@
-Timestamp       : 20260430_135834
+Timestamp       : 20260428_221612
 Run name        : full-run-alternate-rewards
-Label           : molecules_csv
-Platform        : COLAB
+Label           : post_analysis
+Platform        : KAGGLE
 PREDICTOR       : gin
 PROTEIN         : 4BTK
 REWARD_FUNCTION : exponential
