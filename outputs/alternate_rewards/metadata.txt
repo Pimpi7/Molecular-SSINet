@@ -1,6 +1,6 @@
-Timestamp       : 20260505_202113
+Timestamp       : 20260505_202244
 Run name        : alternate-rewards-less-frequency
-Label           : final
+Label           : molecules_csv
 Platform        : KAGGLE
 PREDICTOR       : gin
 PROTEIN         : 4BTK
