@@ -1,0 +1,14 @@
+Timestamp       : 20260428_221612
+Run name        : full-run-alternate-rewards
+Label           : post_analysis
+Platform        : KAGGLE
+PREDICTOR       : gin
+PROTEIN         : 4BTK
+REWARD_FUNCTION : exponential
+NUM_ITERATIONS  : 175
+N_POLICY        : 15
+SWITCH_MODE     : True
+SWITCH_FREQUENCY: 35
+USE_LOGP        : True
+USE_QED         : True
+USE_TPSA        : True
