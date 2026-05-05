@@ -1,6 +1,6 @@
-Timestamp       : 20260428_221612
-Run name        : full-run-alternate-rewards
-Label           : post_analysis
+Timestamp       : 20260505_174427
+Run name        : alternate-rewards-less-frequency
+Label           : iter0025
 Platform        : KAGGLE
 PREDICTOR       : gin
 PROTEIN         : 4BTK
@@ -8,7 +8,7 @@ REWARD_FUNCTION : exponential
 NUM_ITERATIONS  : 175
 N_POLICY        : 15
 SWITCH_MODE     : True
-SWITCH_FREQUENCY: 35
+SWITCH_FREQUENCY: 15
 USE_LOGP        : True
 USE_QED         : True
 USE_TPSA        : True
