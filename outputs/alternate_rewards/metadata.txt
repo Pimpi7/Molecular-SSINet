@@ -1,0 +1,14 @@
+Timestamp       : 20260522_160219
+Run name        : alternate-rewards-less-frequency
+Label           : final
+Platform        : KAGGLE
+PREDICTOR       : gin
+PROTEIN         : 4BTK
+REWARD_FUNCTION : exponential
+NUM_ITERATIONS  : 175
+N_POLICY        : 15
+SWITCH_MODE     : True
+SWITCH_FREQUENCY: 15
+USE_LOGP        : True
+USE_QED         : True
+USE_TPSA        : True
