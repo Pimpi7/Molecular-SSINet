@@ -1,6 +1,6 @@
-Timestamp       : 20260603_113403
+Timestamp       : 20260603_113443
 Run name        : alternate-rewards-SSINet
-Label           : molecules_csv
+Label           : post_analysis
 Platform        : KAGGLE
 PREDICTOR       : gin
 PROTEIN         : 4BTK
