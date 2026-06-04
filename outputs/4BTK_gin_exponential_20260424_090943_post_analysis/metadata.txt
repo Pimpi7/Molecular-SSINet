@@ -1,0 +1,10 @@
+Timestamp       : 20260424_090943
+Label           : post_analysis
+Platform        : COLAB
+PREDICTOR       : gin
+PROTEIN         : 4BTK
+REWARD_FUNCTION : exponential
+NUM_ITERATIONS  : 175
+USE_LOGP        : True
+USE_QED         : True
+USE_TPSA        : True
